@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "DISOBEY feat. TOC",
+  "base_artist": "下拓",
+  "createdAt": "2026-02-12T11:38:01.707321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disobey (feat. Dotter)",
+      "artist": "KAAZE feat. Dotter",
+      "has_synced": true,
+      "path": "select/01_Disobey_(feat._Dotter)_KAAZE_feat._Dotter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Disobey (feat. Dotter)",
+      "artist": "Kaaze",
+      "has_synced": true,
+      "path": "select/02_Disobey_(feat._Dotter)_Kaaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Disobey (feat. Dotter)",
+      "artist": "KAAZE, Dotter",
+      "has_synced": true,
+      "path": "select/03_Disobey_(feat._Dotter)_KAAZE,_Dotter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DISOBEY feat. TOC",
+      "artist": "下拓",
+      "has_synced": false,
+      "path": "select/pl_01_DISOBEY_feat._TOC_下拓.txt"
+    }
+  ]
+}
